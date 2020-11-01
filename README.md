@@ -1,5 +1,4 @@
-# README
-
+# README ![Build Status](https://travis-ci.com/tokuma09/product-register.svg?branch=master)
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
